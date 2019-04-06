@@ -1,7 +1,5 @@
 # C24 Test Geb Project
 
-[![Build Status][build_status]](https://circleci.com/gh/geb/geb-example-gradle/tree/master)
-
 ## Description
 
 This is an example of incorporating Geb into a Gradle build. It shows the use of Spock and JUnit 4 tests.
